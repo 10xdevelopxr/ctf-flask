@@ -1,5 +1,6 @@
 Pages 
-- Home
+- Home (Prototype Completed)
 - About Us
 - Services
 - Contact Us
+
